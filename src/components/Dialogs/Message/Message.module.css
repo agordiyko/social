@@ -1,0 +1,20 @@
+.text {
+    position: relative;
+    max-width: 250px;
+    border: 3px solid #555;
+    border-radius: 9px;
+    padding: 15px;
+    /*z-index: 2;*/
+}
+.triangle{
+    position: absolute;
+
+    left: -26px;
+    top: 7px;
+    border: 10px solid transparent;
+    border-right: 15px solid #555;
+    display: block;
+    width: 0;
+    height: 0;
+    /*z-index: 1;*/
+}

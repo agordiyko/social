@@ -1,0 +1,13 @@
+.wrap {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.pic {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background: darkorange;
+    margin-right: 10px;
+    font-size: 18px;
+}

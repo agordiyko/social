@@ -1,0 +1,15 @@
+.linkItem {
+    margin-bottom: 10px;
+}
+.linkItem a {
+    color: #282c34;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+.linkItem a:hover {
+    color: blueviolet;
+}
+.active {
+    color: blueviolet !important;
+    font-weight: bold;
+}
